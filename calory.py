@@ -4,7 +4,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv,find_dotenv
 from PIL import Image
 load_dotenv()
-genai.configure(api_key="AIzaSyBZUa2gpJGrSbOBzG23dE8LNhPmY4lgdrg")
+genai.configure(api_key="GOOGLE_API_KEY")
 
 
 def get_gemini_response(input,image):
