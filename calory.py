@@ -55,12 +55,11 @@ You are an expert in nutritionist where you need to see the food items from the 
             Total Calories
 
                This meal is healthy option 
-               -----
-               -----
+               
 
                The percentage of Carbohydrates, Proteins, Fats, Minerals and Vitamins should be as follows
-               ----
-               ----
+               
+              
 
 """
 
